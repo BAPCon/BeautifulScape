@@ -1,10 +1,9 @@
 
-# BeautifulScape - Netscape Bookmark Parser (Chrome, Firefox, IE)
-<div style="text-align:center;margin-left:5%;margin-right:5%;padding:15px;font-size:1.2em;border-radius:8px;border-style:solid;margin-bottom:20px;margin-top:10px;"> </div>
+# BeautifulScape - Netscape Bookmark Parser
+## Parse `netscape-bookmark-file-1`  format bookmark exports (Chrome, Firefox, IE).
 
 [![PyPI Version](https://img.shields.io/pypi/v/bookmark_explorer.svg)](https://pypi.org/project/bookmark_explorer/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Tests](https://github.com/YOUR_USERNAME/bookmark_explorer/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR_USERNAME/bookmark_explorer/actions/workflows/tests.yml)
 
 Bookmark Explorer is a Python package designed to effortlessly extract, analyze, and navigate through your browser bookmarks. Whether you're dealing with a massive collection of bookmarks or just want to quickly find that one elusive link, Bookmark Explorer has you covered.
 
