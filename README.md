@@ -1,6 +1,6 @@
 
-# BeautifulScape
-<div style="text-align:center;margin-left:5%;margin-right:5%;padding:15px;font-size:1.2em;border-radius:8px;border-style:solid;margin-bottom:20px;margin-top:10px;"> Netscape Bookmark Parser (Chrome, Firefox, IE)</div>
+# BeautifulScape - Netscape Bookmark Parser (Chrome, Firefox, IE)
+<div style="text-align:center;margin-left:5%;margin-right:5%;padding:15px;font-size:1.2em;border-radius:8px;border-style:solid;margin-bottom:20px;margin-top:10px;"> </div>
 
 [![PyPI Version](https://img.shields.io/pypi/v/bookmark_explorer.svg)](https://pypi.org/project/bookmark_explorer/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
